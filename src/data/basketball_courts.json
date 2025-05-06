@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1",
+                "name": "Yoyogi Park Basketball Court",
+                "description": "Public basketball court in Yoyogi Park",
+                "courtType": "outdoor",
+                "hoops": 2,
+                "surface": "concrete"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6989,
+                    35.6716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2",
+                "name": "Shibuya Ward Sports Center",
+                "description": "Indoor court at Shibuya Ward Sports Center",
+                "courtType": "indoor",
+                "hoops": 2,
+                "surface": "wood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6932,
+                    35.6598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3",
+                "name": "Komazawa Olympic Park",
+                "description": "Basketball courts at Komazawa Olympic Park",
+                "courtType": "outdoor",
+                "hoops": 6,
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6636,
+                    35.6325
+                ]
+            }
+        }
+    ]
+}
