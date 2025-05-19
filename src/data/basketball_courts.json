@@ -54,6 +54,24 @@
                     35.6325
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "Okubo Park",
+                "description": "Open-air venue for concerts, food festivals & markets, plus courts for basketball & futsal.",
+                "courtType": "outdoor",
+                "hoops": 2,
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.701453,
+                    35.697284
+                ]
+            }
         }
     ]
 }
